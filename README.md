@@ -23,8 +23,8 @@ You can customize various parameters in the script to adapt it to your needs. Fo
 Contributions and improvements are welcome! If you'd like to contribute to this project, follow these steps:
 
 # Fork this repository.
-Create a new branch for your changes.
-Make your changes and improvements.
-Commit your changes with clear commit messages.
-Push your changes to your fork on GitHub.
-Open a pull request to this repository.
+- ! Create a new branch for your changes.
+- ! Make your changes and improvements.
+- ! Commit your changes with clear commit messages.
+- ! Push your changes to your fork on GitHub.
+- ! Open a pull request to this repository.
